@@ -5,42 +5,42 @@ body, .butterpop-message, h1.title,#loading-area .load-text .text-load,.jq-toast
 	font-style: normal;
 }
 .form-control:focus {
-	border-color: #f72e7a !important;
+	border-color: #8b104e !important;
 }
 .btn-primary {
-	background-color: #f72e7a !important;
-	border: 1px solid #f72e7a;
+	background-color: #8b104e !important;
+	border: 1px solid #8b104e;
 	color: #000 !important;
 }
 .btn-primary:hover {
-	background-color: #f72e7a !important;
-	border: 1px solid #f72e7a !important;
+	background-color: #8b104e !important;
+	border: 1px solid #8b104e !important;
 	color: #000 !important;
 }
 .sales-cards .card h6,.sidebar .sidebar-menu > ul > li.submenu-open ul > li.active a span,.sidebar .sidebar-menu > ul li.active svg {
-	color: #f72e7a !important;
+	color: #8b104e !important;
 }
 .sidebar .sidebar-logo #toggle_btn,.swiper-pagination.style-1 .swiper-pagination-bullet-active {
-	background: #f72e7a !important;
+	background: #8b104e !important;
 }
 .page-wraper,.bg-primary {
-	background-color: #f72e7a !important;
+	background-color: #8b104e !important;
 }
 .mandadory {
     color: #FF0000;
 }
 .btn.btn-primary {
-	background-color: #f72e7a !important;
-    border: 1px solid #f72e7a !important;
+	background-color: #8b104e !important;
+    border: 1px solid #8b104e !important;
     color: #FFFFFF !important;
 }
 .btn.btn-primary:hover {
-	background-color: #f72e7a !important;
-    border: 1px solid #f72e7a !important;
+	background-color: #8b104e !important;
+    border: 1px solid #8b104e !important;
 }
 .dataTables_paginate .pagination li.active a.page-link {
-	background: #f72e7a;
-    border-color: #f72e7a;
+	background: #8b104e;
+    border-color: #8b104e;
 }
 .country-flag {
 	border-radius: 100%;
@@ -50,13 +50,13 @@ label[id$="-error"] {
 	display: none;
 }
 .select2-container--default .select2-results__option--highlighted[aria-selected] {
-	background: #f72e7a;
+	background: #8b104e;
 }
 .text-secondary {
 	color: #FFFFFF !important;
 }
 .text-primary,.btn-link {
-	color: #f72e7a !important;
+	color: #8b104e !important;
 }
 .step-2,.step-3 {
 	display: none;

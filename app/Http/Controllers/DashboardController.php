@@ -10,6 +10,12 @@
     {
         public function index()
         {
+            $response = Http::post(url('/api/check-number'), [
+                'phone' => 9714191947
+            ]);
+
+            print_r ($response->json());
+            exit;
             return view('admin.dashboard');
         }
 
