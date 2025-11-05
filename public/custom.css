@@ -1,0 +1,63 @@
+body, .butterpop-message, h1.title,#loading-area .load-text .text-load,.jq-toast-single,.jq-toast-heading {
+	font-family: "Nunito", serif !important;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+.form-control:focus {
+	border-color: #f72e7a !important;
+}
+.btn-primary {
+	background-color: #f72e7a !important;
+	border: 1px solid #f72e7a;
+	color: #000 !important;
+}
+.btn-primary:hover {
+	background-color: #f72e7a !important;
+	border: 1px solid #f72e7a !important;
+	color: #000 !important;
+}
+.sales-cards .card h6,.sidebar .sidebar-menu > ul > li.submenu-open ul > li.active a span,.sidebar .sidebar-menu > ul li.active svg {
+	color: #f72e7a !important;
+}
+.sidebar .sidebar-logo #toggle_btn,.swiper-pagination.style-1 .swiper-pagination-bullet-active {
+	background: #f72e7a !important;
+}
+.page-wraper,.bg-primary {
+	background-color: #f72e7a !important;
+}
+.mandadory {
+    color: #FF0000;
+}
+.btn.btn-primary {
+	background-color: #f72e7a !important;
+    border: 1px solid #f72e7a !important;
+    color: #FFFFFF !important;
+}
+.btn.btn-primary:hover {
+	background-color: #f72e7a !important;
+    border: 1px solid #f72e7a !important;
+}
+.dataTables_paginate .pagination li.active a.page-link {
+	background: #f72e7a;
+    border-color: #f72e7a;
+}
+.country-flag {
+	border-radius: 100%;
+    width: 50%;
+}
+label[id$="-error"] {
+	display: none;
+}
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+	background: #f72e7a;
+}
+.text-secondary {
+	color: #FFFFFF !important;
+}
+.text-primary,.btn-link {
+	color: #f72e7a !important;
+}
+.step-2,.step-3 {
+	display: none;
+}
